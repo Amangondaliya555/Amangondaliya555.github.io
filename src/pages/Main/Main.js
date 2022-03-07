@@ -17,14 +17,14 @@ function Main() {
             <Education />
             <Skills />
             <Experience />
-            
+            <Projects />
             <Achievement />
             <Services />
-            
+            <Blog />
             <Contacts />
             <Footer />
         </div>
     )
 }
-//Experience - Projects - Achievements - Services - Blog - Contacts
+
 export default Main
