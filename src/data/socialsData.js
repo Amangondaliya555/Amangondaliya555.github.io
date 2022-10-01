@@ -2,7 +2,7 @@ export const socialsData = {
     github: 'https://github.com/Amangondaliya555',
     //facebook: 'https://www.facebook.com/',
     linkedIn: 'https://www.linkedin.com/in/aman-gondaliya-219507a6',
-    instagram: 'https://www.instagram.com/st3w1e_gr1ff1n/',
+    instagram: 'https://www.instagram.com/aman_gondaliya555/',
     //codepen: 'https://codepen.io/',
     twitter: 'https://twitter.com/AmanGondaliya4',
     reddit: 'https://www.reddit.com/user/amangondaliya555',
