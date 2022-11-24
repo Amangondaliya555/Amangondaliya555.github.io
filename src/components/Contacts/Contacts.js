@@ -139,7 +139,7 @@ function Contacts() {
                     email: email,
                     message: message,
                 };
-
+                window.alert(responseData)
                 axios.post(contactsData.sheetAPI, responseData).then((res) => {
                     console.log('success');
                     setSuccess(true);
