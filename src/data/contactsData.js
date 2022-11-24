@@ -3,5 +3,5 @@ export const contactsData = {
     phone: '+917874215123',
     address: 'Lallu Colony, Maliya Hatina, India - 362245 ',
 
-    sheetAPI: 'https://sheetdb.io/api/v1/uoubaauz8fo6h'
+    sheetAPI: 'https://sheetdb.io/api/v1/tb5sroci355pq'
 }
