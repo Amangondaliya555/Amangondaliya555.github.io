@@ -4,7 +4,7 @@ export const blogData = [
         title: 'CAPTURE THE FLAG (CTF): The Cyber-security War-games',
         description: 'About a competition that can help mastering the cybersecurity.',
         date: 'Aug 7, 2019',
-        image: '/../assets/png/hacking.png',
+        image: 'https://cevgroup.org/wp-content/uploads/2019/08/ukraine-cyber-attack.png',
         url: 'https://cevgroup.org/capture-the-flag-ctf-the-cyber-security-war-games/'
     },
     {
