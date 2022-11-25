@@ -1,14 +1,7 @@
-import one from '../assets/svg/projects/one.svg'
-import two from '../assets/svg/projects/two.svg'
-import three from '../assets/svg/projects/three.svg'
-import four from '../assets/svg/projects/four.svg'
-import five from '../assets/svg/projects/five.svg'
-import six from '../assets/svg/projects/six.svg'
-import seven from '../assets/svg/projects/seven.svg'
-import eight from '../assets/svg/projects/eight.svg'
 import twelve from '../assets/svg/projects/twelve.svg'
 import fourteen from '../assets/svg/projects/fourteen.svg'
 import fifteen from '../assets/svg/projects/fifteen.svg'
+import sixteen from '../assets/svg/projects/sixteen.svg'
 
 export const projectsData = [
     {
@@ -45,7 +38,7 @@ export const projectsData = [
         tags: ['FHardware'],
         code: 'https://drive.google.com/file/d/1CtkcPIreQLsCrVQ-OQTJpsboy0zIlQwD/view?usp=sharing',
         demo: 'https://drive.google.com/file/d/1CtkcPIreQLsCrVQ-OQTJpsboy0zIlQwD/view?usp=sharing',
-        image: four
+        image: sixteen
     },
     {
         id: 5,
