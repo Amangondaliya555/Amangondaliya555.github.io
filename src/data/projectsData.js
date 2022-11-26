@@ -67,15 +67,7 @@ export const projectsData = [
         demo: '',
         image: ''
     },
-    {
-        id: 8,
-        projectName: 'Car Pooling System',
-        projectDesc: '',
-        tags: ['Flutter', 'React'],
-        code: '',
-        demo: '',
-        image: ''
-    },
+    
 ]
 
 
