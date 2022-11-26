@@ -40,34 +40,6 @@ export const projectsData = [
         demo: 'https://drive.google.com/file/d/1CtkcPIreQLsCrVQ-OQTJpsboy0zIlQwD/view?usp=sharing',
         image: sixteen
     },
-    {
-        id: 5,
-        projectName: 'E-Commerce App',
-        projectDesc: '',
-        tags: ['React Native', 'Firebase'],
-        code: '',
-        demo: '',
-        image: ''
-    },
-    {
-        id: 6,
-        projectName: 'Uber Lite',
-        projectDesc: '',
-        tags: ['Flutter'],
-        code: '',
-        demo: '',
-        image: ''
-    },
-    {
-        id: 7,
-        projectName: 'Stock Market App',
-        projectDesc: '',
-        tags: ['React', 'Redux', 'Bootstrap'],
-        code: '',
-        demo: '',
-        image: ''
-    },
-    
 ]
 
 
