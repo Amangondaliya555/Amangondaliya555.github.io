@@ -18,7 +18,7 @@ export const experienceData = [
         company: 'Nokia | Chennai',
         jobtitle: 'Graduate Engineer Trainee',
         startYear: 'July 2021 ',
-        endYear: ' Present'
+        endYear: ' December 2022'
     },
     {
         id: 4,
