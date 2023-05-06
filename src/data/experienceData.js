@@ -3,15 +3,15 @@ export const experienceData = [
         id: 1,
         company: 'Nokia | Lisbon',
         jobtitle: 'Test Automation Developer',
-        startYear: 'Upcoming ',
-        endYear: ' Upcoming'
+        startYear: 'May 2023 ',
+        endYear: ' Present'
     },
     {
         id: 2,
         company: 'Nokia | Chennai',
         jobtitle: 'Associate',
         startYear: 'January 2023 ',
-        endYear: ' Present'
+        endYear: ' April 2023'
     },
     {
         id: 3,
