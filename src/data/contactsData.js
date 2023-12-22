@@ -1,7 +1,7 @@
 export const contactsData = {
     email: 'amangondaliya555@gmail.com',
     phone: '+917874215123',
-    address: 'Lallu Colony, Maliya Hatina, India - 362245 ',
+    address: 'R. Eusébio Ferreira 42, 2775-403 Carcavelos ',
 
     sheetAPI: 'https://sheetdb.io/api/v1/6zbambu47inhe'
 }
