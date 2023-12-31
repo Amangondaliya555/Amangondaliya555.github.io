@@ -13,11 +13,4 @@ export const educationData = [
         startYear: '2014',
         endYear: '2016'
     },
-    {
-        id: 3,
-        institution: 'Sarvoday High School, Maliya Hatina',
-        course: 'Secondary Education',
-        startYear: '2011',
-        endYear: '2014'
-    },
 ]

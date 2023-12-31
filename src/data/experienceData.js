@@ -27,11 +27,4 @@ export const experienceData = [
         startYear: 'April 2021 ',
         endYear: ' July 2021'
     },
-    {
-        id: 5,
-        company: 'JP Morgan Virtual Experience | Remote',
-        jobtitle: 'Software Engineering Intern',
-        startYear: 'April 2020 ',
-        endYear: ' May 2020'
-    },
 ]
