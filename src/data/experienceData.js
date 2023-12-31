@@ -1,37 +1,23 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Nokia | Lisbon',
-        jobtitle: 'Test Automation Developer',
-        startYear: 'May 2023 ',
-        endYear: ' Present'
+        company: 'Globex Corporation',
+        jobtitle: 'Frontend Developer',
+        startYear: '2018',
+        endYear: '2019'
     },
     {
         id: 2,
-        company: 'Nokia | Chennai',
-        jobtitle: 'Associate',
-        startYear: 'January 2023 ',
-        endYear: ' April 2023'
+        company: 'Vehement Capital Partners',
+        jobtitle: 'Backend Developer',
+        startYear: '2019',
+        endYear: '2020'
     },
     {
         id: 3,
-        company: 'Nokia | Chennai',
-        jobtitle: 'Graduate Engineer Trainee',
-        startYear: 'July 2021 ',
-        endYear: ' December 2022'
-    },
-    {
-        id: 4,
-        company: 'Property Advisor & Architecture | Remote',
-        jobtitle: 'Team Leader Intern',
-        startYear: 'April 2021 ',
-        endYear: ' July 2021'
-    },
-    {
-        id: 5,
-        company: 'JP Morgan Virtual Experience | Remote',
-        jobtitle: 'Software Engineering Intern',
-        startYear: 'April 2020 ',
-        endYear: ' May 2020'
+        company: 'Wonka Industries',
+        jobtitle: 'Marketing',
+        startYear: '2020',
+        endYear: 'Present'
     },
 ]
