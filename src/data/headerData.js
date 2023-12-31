@@ -1,4 +1,4 @@
-import resume from '../assets/pdf/resume.pdf'
+import resume from '../assets/pdf/AmanGondaliya_Resume.pdf'
 import img from '../assets/png/profileimg.png'
 
 export const headerData = {
