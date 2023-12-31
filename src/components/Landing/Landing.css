@@ -60,7 +60,6 @@
   flex-direction: column;
   align-items: flex-end;
   justify-content: center;
-  text-align: justify;
 }
 
 .lcr--content {
@@ -188,7 +187,6 @@
     align-items: center;
     justify-content: center;
     padding: 0 2rem;
-    text-align: justify;
   }
   .lcr--content {
     margin-top: 20%;

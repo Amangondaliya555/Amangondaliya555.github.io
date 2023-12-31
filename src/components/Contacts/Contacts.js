@@ -139,10 +139,9 @@ function Contacts() {
                     email: email,
                     message: message,
                 };
-                
+
                 axios.post(contactsData.sheetAPI, responseData).then((res) => {
-                    console.log('Message Sent!');
-                    alert('Message Sent!')
+                    console.log('success');
                     setSuccess(true);
                     setErrMsg('');
 

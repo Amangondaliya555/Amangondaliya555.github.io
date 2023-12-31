@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'amangondaliya555@gmail.com',
-    phone: '+351934600764',
-    address: 'R. Eusébio Ferreira 42, 2775-403 Carcavelos ',
+    email: 'janedoe.test@gmail.com',
+    phone: '+915588776600',
+    address: 'Menlo Park, California, United States - 673822 ',
 
-    sheetAPI: 'https://sheetdb.io/api/v1/6zbambu47inhe'
+    sheetAPI: ''
 }
