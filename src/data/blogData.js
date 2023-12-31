@@ -1,43 +1,43 @@
 export const blogData = [
     {
         id: 1,
-        title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
-        description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
-        date: 'Aug 7, 2020',
-        image: 'https://1.bp.blogspot.com/-6vZQoWcIZeo/Xvw5ZD5Y53I/AAAAAAAABgI/GH2b5OuMaXAKuigK4diBbeYDW6dD3qVvgCK4BGAsYHg/w400-h225/selenium.jpg',
-        url: 'https://hackzism.blogspot.com/2020/07/scraping-billboard-and-imdb-using.html'
+        title: 'CAPTURE THE FLAG (CTF): The Cyber-security War-games',
+        description: 'About a competition that can help mastering the cybersecurity.',
+        date: 'Aug 7, 2019',
+        image: 'https://cevgroup.org/wp-content/uploads/2019/08/ukraine-cyber-attack.png',
+        url: 'https://cevgroup.org/capture-the-flag-ctf-the-cyber-security-war-games/'
     },
     {
         id: 2,
-        title: 'CHECK WEATHER FROM TERMINAL USING WTTR.IN',
-        description: 'wttr.in is a console-oriented weather forecast service that supports various information representation methods like ANSI-sequences for console HTTP clients, HTML, or PNG.',
-        date: 'Aug 11, 2020',
-        image: 'https://1.bp.blogspot.com/-OW7jX57tea4/XvnGxuEOslI/AAAAAAAABW0/R8lVT1AXDSwnvE0EGA9Ra49-LDm1ACwDgCK4BGAsYHg/s1216/wttr1.png',
-        url: 'https://hackzism.blogspot.com/2020/06/check-weather-from-terminal-using-wttrin.html'
+        title: 'Journey of an Entrepreneur',
+        description: 'I attended workshop on this topic and decided to do some research and write a blog about it.',
+        date: 'Mar 17, 2019',
+        image: 'https://cevgroup.org/wp-content/uploads/2019/03/entrepreneur-4.jpg',
+        url: 'https://cevgroup.org/journey-of-an-entrepreneurship/'
     },
     {
         id: 3,
-        title: 'BEING ANONYMOUS: A BEGINNERS GUIDE',
-        description: 'Here are some basic ways to lay off the Radar',
-        date: 'Aug 14, 2020',
-        image: 'https://1.bp.blogspot.com/-GR19yCNbKCE/XuRcKEfKvhI/AAAAAAAAAwY/srFWw5pOpzMibeJb__SmgZpx9dIpNNWqgCK4BGAsYHg/w640-h426/anonymous1.jpg',
-        url: 'https://hackzism.blogspot.com/2020/06/being-anonymous-beginners-guide.html'
+        title: 'IoTOGRAPHY',
+        description: 'It is a story where IoT asked for some cryptography.',
+        date: 'May 30, 2020',
+        image: 'https://cevgroup.org/wp-content/uploads/2020/05/1-2.jpg',
+        url: 'https://cevgroup.org/iotography/'
     },
     {
         id: 4,
-        title: 'CHECK INTERNET SPEED FROM THE COMMAND LINE',
-        description: 'Want to check your internet speed from the terminal? Here\'s the perfect way to the that.',
-        date: 'Sep 17, 2020',
-        image: 'https://1.bp.blogspot.com/-XTVMsZP3HaM/Xxpl394txlI/AAAAAAAABws/zovXWiuNGg4TzBwYYVFfJ1ixDb3JfVokgCNcBGAsYHQ/w400-h195/speedtest.png',
-        url: 'https://hackzism.blogspot.com/2020/07/check-internet-speed-from-command-line.html'
+        title: 'AN INTRODUCTION TO CRYPTOGRAPHY',
+        description: 'Hacking is fun until they start teaching cryptography. I will try not to bore.',
+        date: 'Nov 3, 2019',
+        image: 'https://cevgroup.org/wp-content/uploads/2019/11/cry-1024x576.jpg',
+        url: 'https://cevgroup.org/introduction-to-cryptography/'
     },
     {
         id: 5,
-        title: 'GET MICHAEL\'S OR TREVOR\'S VEHICLES FULLY UPGRADED IN GTA V FOR FREE',
-        description: 'In case you haven\'t heard of this game, GTA stands for \'Grand Theft Auto\'. It is an open-world game published by Rockstar Games.',
-        date: 'Oct 1, 2020',
-        image: 'https://1.bp.blogspot.com/-jhdtUBIRD_s/XxLFKQuRz9I/AAAAAAAABsM/mClfbfDFKvsUwA7Wyi25Lzu3DEmL2lxrACNcBGAsYHQ/s1919/gta.jpg',
-        url: 'https://hackzism.blogspot.com/2020/07/how-can-you-get-michaels-or-trevors.html'
+        title: 'CAESAR CIPHER',
+        description: 'A blog for history, maths and cybersecurity lovers.',
+        date: 'May 20, 2020',
+        image: 'https://miro.medium.com/max/828/1*XYb_JQzpVgRA3pNNBEYL5A.webp',
+        url: 'https://medium.com/@amangondaliya555/caesar-cipher-e9c7a03e3870'
     },
 ]
 
