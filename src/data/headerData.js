@@ -4,7 +4,7 @@ import img from '../assets/png/profileimg.png'
 export const headerData = {
     name: 'Aman Gondaliya',
     title: "Software Engineer",
-    desciption: "        Tech and Space enthusiastic.        ",
+    desciption: "I still use Stackoverflow over ChatGPT.",
     image: img,
     resumePdf: resume
 }
