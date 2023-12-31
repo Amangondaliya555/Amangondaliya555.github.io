@@ -34,7 +34,7 @@ export const blogData = [
     {
         id: 5,
         title: 'CAESAR CIPHER',
-        description: 'A blog for history, maths and cybersecurity lovers.',
+        description: 'A blog for history, maths and cybersecurity fans.',
         date: 'May 20, 2020',
         image: 'https://miro.medium.com/max/828/1*XYb_JQzpVgRA3pNNBEYL5A.webp',
         url: 'https://medium.com/@amangondaliya555/caesar-cipher-e9c7a03e3870'
